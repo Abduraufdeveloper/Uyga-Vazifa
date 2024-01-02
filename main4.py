@@ -4,6 +4,6 @@ def Imtihon_3():
     e = sorted(a)
     for x in range(1, 11):
         if x not in a:
-            e.append(x)
+            b.append(x)
             print(x)
 print(Imtihon_3())
